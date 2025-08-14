@@ -353,13 +353,7 @@
   <div class="app" tabindex="0">
     <div class="wrap">
       <div class="panel">
-        <div class="mobile-pad">
-          <button id="upTouch" class="ghost">⬆️</button>
-          <button id="leftTouch" class="ghost">⬅️</button>
-          <button id="downTouch" class="ghost">⬇️</button>
-          <button id="rightTouch" class="ghost">➡️</button>
-        </div>
-        
+
         <div class="scoreboard">
           <div>
             <div class="logo">TNEVERD SNAKE GAME</div>
@@ -374,6 +368,14 @@
 
         <div style="margin-top:12px;">
           <canvas id="gameCanvas" width="640" height="640" tabindex="0"></canvas>
+        </div>
+
+        <!-- دکمه‌های موبایل: منتقل‌شده به زیر Canvas -->
+        <div class="mobile-pad" style="display:flex;justify-content:center;gap:8px;margin-top:12px;">
+          <button id="upTouch" class="ghost">⬆️</button>
+          <button id="leftTouch" class="ghost">⬅️</button>
+          <button id="downTouch" class="ghost">⬇️</button>
+          <button id="rightTouch" class="ghost">➡️</button>
         </div>
 
         <div class="hud">
@@ -455,7 +457,6 @@
       </div>
     </div>
   </div>
-
   <script>
     console.log("JavaScript Connected.");
     console.log("loading Scripts...");

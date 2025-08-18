@@ -1,11 +1,22 @@
-"TneverD Snake Game"
+# 🐍 TneverD Snake Game
 
-A Snake Game Created With AI . This game Dont Use Any PHP . It use local Storage for Saving files.
+A modern, minimalistic Snake Game built with **HTML, CSS & JavaScript**. Fully responsive and playable on **desktop and mobile devices**.
 
-This Snake Game Work In Any Device Like Phones And .... 
+---
 
-This game has Arrow key For Mobile/Tablet Users . 
+## 🚀 Features
 
-Created By Me in 3 Days . Made in Iran 🇮
+- 🎮 **Pure Frontend**: No PHP required. Fully built with HTML, CSS, and JavaScript.  
+- 📱 **Responsive Design**: Works on desktop, tablets, and mobile devices.  
+- 💾 **Local Storage Support**: Saves high scores and settings locally.  
+- ⬅️➡️ **Easy Controls**: Keyboard arrow keys or touch controls for mobile.  
+- ✨ **Smooth UI/UX**: Minimalist design for a fluid gaming experience.  
 
-© All Rights reserved By TneverD-Software
+---
+
+## 🛠️ Installation
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/TneverD/TneverD-Snake-Game.git

@@ -20,3 +20,10 @@ A modern, minimalistic Snake Game built with **HTML, CSS & JavaScript**. Fully r
 
 ```bash
 git clone https://github.com/TneverD/TneverD-Snake-Game.git
+
+---
+
+##About
+©️ All rights reserved by TneverD Software .
+made in iran in 3 days with ai help.
+our site: tneverd-software.ir 

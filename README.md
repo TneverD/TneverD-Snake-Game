@@ -23,7 +23,7 @@ git clone https://github.com/TneverD/TneverD-Snake-Game.git
 ```
 ---
 
-##About
+## About
 ©️ All rights reserved by TneverD Software .
 made in iran in 3 days with ai help.
 our site: tneverd-software.ir 
